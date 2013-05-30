@@ -13,5 +13,6 @@ brew update
 brew install postgresql
 brew install mysql
 brew install mongodb
+brew install neo4j
 
 
